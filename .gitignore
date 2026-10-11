@@ -17,3 +17,7 @@ backend/src/main/resources/application-local-backup.properties
 
 .idea/
 *.log
+
+# Keep database configuration and credentials out of Git
+backend/src/main/resources/application.properties
+backend/src/main/resources/application-local-backup.properties
