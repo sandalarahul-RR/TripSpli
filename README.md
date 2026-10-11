@@ -46,3 +46,17 @@ TripSpli/
 │   ├── pom.xml
 │   └── mvnw
 └── .gitignore
+
+## 📸 Screenshots
+
+### Homepage
+![TripSpli Homepage](homepage.png)
+
+### Create Trip
+![Create Trip](create-trip.png)
+
+### Destination Recommendations
+![Destination Recommendations](recommendations.png)
+
+### Trip Details
+![Trip Details](trip-details.png)
